@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour à tous 👋
 
 <!--
 **Alpha-Thibzee/Alpha-Thibzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
